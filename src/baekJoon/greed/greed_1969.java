@@ -1,4 +1,4 @@
-package baekJoon.grid;
+package baekJoon.greed;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 //	https://www.acmicpc.net/problem/1969
 
-public class grid_1969 {
+public class greed_1969 {
 	private static String calc(int a, int t, int g, int c, int max) {
 		if(max==a) {
 			return "A";
