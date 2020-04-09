@@ -15,7 +15,6 @@ public class greed_1931 {
 		
 		int [][] p = new int[n][2];
 		
-		int min =-1;
 		for(int i=0; i<n; i++) {
 			st = new StringTokenizer(br.readLine());
 			p[i][0] =Integer.parseInt(st.nextToken());
@@ -102,5 +101,5 @@ p[j][0] = 2//p[j][1] = 13
 p[j][0] = 1//p[j][1] = 4
 p[j][0] = 0//p[j][1] = 6
 
-
+*/
 
